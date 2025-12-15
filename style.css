@@ -102,6 +102,13 @@ footer {
     gap: 20px;
   }
 
+  .project img {
+  width: 100%;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+
+
   .hero-content h2 {
     font-size: 34px;
   }
